@@ -10,7 +10,7 @@ Then install winston-bishop-slack
 
     $ npm install winston-bishop-slack
 
-#####Additonal Options:
+#####Additional Options:
 
 * **webhook_url:** *(required) url for your integration (provided by the slack API)*
 * **icon_url:** *avatar of the message 'sender' as it appears in slack*
